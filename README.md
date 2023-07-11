@@ -14,7 +14,7 @@ The vocabulary is published on Geoscience Australia's [Vocabulary Service](https
 
 ## Adding and modifying definitions
 
-To add a new definition or modify an existing definition, create an [issue](https://github.com/AusClimateService/vocabulary/issues) and use the relevant issue template to submit the addition/modification. The proposed definition will be reviewed by custodians (in consultation with ACS partners) before implementing the requested addition/modification.
+To add a new definition or modify an existing definition, create an [issue](https://github.com/AusClimateService/vocab/issues) and use the relevant issue template to submit the addition/modification. The proposed definition will be reviewed by custodians (in consultation with ACS partners) before implementing the requested addition/modification.
 
 ## Custodians
 
